@@ -1,0 +1,17 @@
+:root {
+  --primary-background: #f3f5f7;
+  --seconday-background: #f6f7f9;
+  --primary-blue: #3563e9;
+  --seconday-blue: #54a6ff;
+  --text-color-1: #1a202c;
+  --text-color-2: #90a3bf;
+  --red: #ed3f3f;
+  --red-2: #ff4423;
+  --orange: #fbad39;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
